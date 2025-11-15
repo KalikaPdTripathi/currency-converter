@@ -23,7 +23,13 @@ https://KalikaPdTripathi.github.io/currency-converter/
 - **Currency API** - Real-time exchange rates
 - **Flags API** - Country flags
 
+## 📸 Screenshot
+
+![Currency Converter](https://raw.githubusercontent.com/KalikaPdTripathi/currency-converter/main/screenshot.png)
+
 ## 📁 Project Structure
+
+```
 currency-converter/
 ├── index.html
 ├── style.css
@@ -31,7 +37,7 @@ currency-converter/
 ├── codes.js
 ├── README.md
 └── .gitignore
-
+```
 ## 🎯 Usage
 
 1. Enter the amount you want to convert
